@@ -6,7 +6,7 @@ University student at RMUTK
 
 I study Computer Science. Now I am studying Web Development, html, css and JavaScript. In my free time, I like to learn new things and develop my coding skills.
 
-* 🌍  I'm based in ไทย
+* 🌍  I'm based in Thai
 * ✉️  You can contact me at [apiwit806@gmail.com](mailto:apiwit806@gmail.com)
 * 🧠  I'm learning html, css, javascript
 
