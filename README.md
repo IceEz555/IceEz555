@@ -8,7 +8,7 @@ I study Computer Science. Now I am studying Web Development, html, css and JavaS
 
 * 🌍  I'm based in Thai
 * ✉️  You can contact me at [apiwit806@gmail.com](mailto:apiwit806@gmail.com)
-* 🧠  I'm learning html, css, javascript, Git
+* 🧠  I'm learning html, css, javascript, react and more
 
 ### Skills
 
