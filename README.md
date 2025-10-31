@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==============================================================================================================================================
 
 
-I study Computer Science. Now I am studying Web Development, html, css and JavaScript. In my free time, I like to learn new things and develop my coding skills.
+I study Computer Science.
 
 * 🌍  I'm based in Thai
 * ✉️  You can contact me at [apiwit806@gmail.com](mailto:apiwit806@gmail.com)
